@@ -26,5 +26,5 @@ The project is structured as follows:
 
 1. Data Preprocessing: Cleaning and preparing the dataset for analysis.
 2. Exploratory Data Analysis (EDA): Analyzing the dataset to identify patterns and trends.
-3. Visualization: Creating visualizations using Matplotlib, Seaborn, and Folium to represent the findings effectively.
+3. Visualization: Creating visualizations using Matplotlib, Seaborn to represent the findings effectively.
 4. Model Building: Built prediction models like Linear Regression, Random Forest Regressor, XGBoost Regressor.
